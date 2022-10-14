@@ -1,0 +1,3 @@
+[submodule "multi-azure-recorder"]
+	path = multi-azure-recorder
+	url = https://github.com/MobileRoboticsSkoltech/multi-azure-recorder.git
