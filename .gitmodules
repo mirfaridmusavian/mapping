@@ -1,3 +1,6 @@
 [submodule "multi-azure-recorder"]
 	path = multi-azure-recorder
 	url = https://github.com/MobileRoboticsSkoltech/multi-azure-recorder.git
+[submodule "ORB-SLAM3-Datasets-Preprocessing"]
+	path = ORB-SLAM3-Datasets-Preprocessing
+	url = https://github.com/vnmsklnk/ORB-SLAM3-Datasets-Preprocessing.git
